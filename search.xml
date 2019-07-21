@@ -5,8 +5,8 @@
     
     <entry>
       <title>Setup-python-dev-Env</title>
-      <link href="/2019/07/21/Setup-python-dev-Env/"/>
-      <url>/2019/07/21/Setup-python-dev-Env/</url>
+      <link href="/yopo-blog/2019/07/21/Setup-python-dev-Env/"/>
+      <url>/yopo-blog/2019/07/21/Setup-python-dev-Env/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -18,8 +18,8 @@
     
     <entry>
       <title>What&#39;s is programming?</title>
-      <link href="/2019/07/21/what-is-programming/"/>
-      <url>/2019/07/21/what-is-programming/</url>
+      <link href="/yopo-blog/2019/07/21/what-is-programming/"/>
+      <url>/yopo-blog/2019/07/21/what-is-programming/</url>
       
         <content type="html"><![CDATA[<h3 id="In-general-what-is-programming"><a href="#In-general-what-is-programming" class="headerlink" title="In general what is programming?"></a>In general what is programming?</h3><p>Before we go for programming, first of <em>let’s make some cake.</em></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">Grease and Preheat</span><br><span class="line">Prepare Your Ingredients</span><br><span class="line">Whisk the Dry Mix</span><br><span class="line">Cream Your Butter and Sugar</span><br><span class="line">Add the Eggs</span><br><span class="line">It&apos;s Time to Combine</span><br><span class="line">Pour Your Batter in Your Pan</span><br><span class="line">Bake and Cool Your Cakes</span><br></pre></td></tr></table></figure><p>Easy!<br>That’s the basic procedure for making a cake. You can do that, anyone can do that, just follow the step.</p><hr><p><em>Next question should be how can we mass-produce cake??</em><br>For mass producing cake we need someone or something that can do this task continuously<br>In this case <em>machines are made for this special purpose in which computers are the best machine ever created</em>.</p><p><em>just put the above procedure in a loop</em> now you’re ready for mass production.</p><p>Theoretically that programming.</p><h5 id="Whats-is-Programming"><a href="#Whats-is-Programming" class="headerlink" title="Whats is Programming?"></a>Whats is Programming?</h5><p>Programming is the process of creating a set of instructions that tell a computer how to perform a task. Programming can be done using a variety of computer “languages,” such as SQL, Java, Python, and C++.</p><p>Now you know that programming is a bunch of system understandable procedure which is running on a computer to get work done.</p><hr><p>Now you have an idea that what’s programming. Now we are left with how to do it!.<br><strong>Next blog will be how to setup python programming env.</strong></p>]]></content>
       
